@@ -1,0 +1,59 @@
+[
+    {
+        "jobId": "623853b2614ad5aba311fdd1",
+        "index": 0,
+        "logo": "https://i.ibb.co/nbWGyQZ/google.png",
+        "title": "Technical Database Engineer",
+        "type": "Google LLC",
+        "officeType":"Remote",
+        "officeType2":"Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100k-150k",
+        "catListPicture": "https://i.ibb.co/cwGRmq4/calculate.png",
+        "catListName": "Account & Finance",
+        "catListJobVacancy": "260+"
+
+    },
+    {
+        "jobId": "623853b2614ad5aba311fdd1",
+        "index": 1,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png",
+        "title": "Senior Product Designer",
+        "type": "Netflix",
+        "officeType":"Remote",
+        "officeType2":"Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100k-150k",
+        "catListPicture": "https://i.ibb.co/bd0tpkb/chip.png",
+        "catListName": "Creative Design",
+        "catListJobVacancy": "100+"
+    },
+    {
+        "jobId": "623853b2614ad5aba311fdd1",
+        "index": 2,
+        "logo": "https://i.ibb.co/G0xJsw4/tesla-logo-png-2244.png",
+        "title": "Software Engineer",
+        "type": "Tesla",
+        "officeType":"Onsite",
+        "officeType2":"Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100k-150k",
+        "catListPicture": "https://i.ibb.co/smDdhkN/social-media.png",
+        "catListName": "Marketing & Sales",
+        "catListJobVacancy": "150"
+    },
+    {
+        "jobId": "623853b2614ad5aba311fdd1",
+        "index": 3,
+        "logo": "https://pngimg.com/uploads/microsoft/microsoft_PNG22.png",
+        "title": "Mechanical Engineer",
+        "type": "Microsoft",
+        "officeType":"Onsite",
+        "officeType2":"Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100k-150k",
+        "catListPicture": "https://i.ibb.co/17g74hQ/idea.png",
+        "catListName": "Software Engineering",
+        "catListJobVacancy": "224"
+    }
+]

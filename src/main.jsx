@@ -13,11 +13,14 @@ import Blog from './components/Blog/Blog';
 import Seedetails from './components/SeeDetails/Seedetails';
 import ErrorPage from './components/FourOfour/FourOFour';
 
+
+
+
 const router = createBrowserRouter([
   {
     path: '/',
     element: <App />,
-    children: [
+    children: [    
       {
         path: '/',
         element: <Home></Home>,

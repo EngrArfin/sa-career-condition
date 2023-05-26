@@ -6,13 +6,13 @@ import { PieChart, Pie, Sector, Cell, ResponsiveContainer, Tooltip } from 'recha
 const Statistics = () => {
 
     const data = [
-        { name: "Assignment 1", value: 27 },
+        { name: "Assignment 1", value: 47 },
         { name: "Assignment 2", value: 0 },
         { name: "Assignment 3", value: 42 },
         { name: "Assignment 4", value: 0 },
         { name: "Assignment 5", value: 42 },
         { name: "Assignment 6", value: 40 },
-        { name: "Assignment 7", value: 60 },
+        { name: "Assignment 7", value: 27 },
         { name: "Assignment 8", value: 24 }
     ]
 
